@@ -15,7 +15,8 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-(https://www.facebook.com/https://www.facebook.com/tushergoon123456789/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tusher-Kumar-Goon)  
+
 <br />
 
 ### Languages and Tools:
