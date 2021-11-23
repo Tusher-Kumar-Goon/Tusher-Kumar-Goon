@@ -63,7 +63,7 @@
 </details>
 
 [website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[youtube]: https://www.youtube.com/channel/UCi0zj63xgSdid74ctX41aSQ
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
