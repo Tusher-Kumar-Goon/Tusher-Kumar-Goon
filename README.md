@@ -16,14 +16,14 @@
 
 <h2 align="left">Connect with me:</h2
 <p align="left">
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
  
 <a href="https://www.facebook.com/tushergoon123456789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tushergoon123456789" height="30" width="40" /></a>
  
  <a href="https://www.instagram.com/tushergoondiponkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tushergoondiponkar/" height="30" width="40" /></a>
  
   <a href="https://www.youtube.com/channel/UCi0zj63xgSdid74ctX41aSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCi0zj63xgSdid74ctX41aSQ" height="30" width="40" /></a>
-
 
  </p>
 
