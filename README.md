@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React Native and Php
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, Bangla, Some Hindi)
+- ⚡ Fun fact: I speak 3 languages ( English, Bangla, Some  Hindi)
 
 
 
