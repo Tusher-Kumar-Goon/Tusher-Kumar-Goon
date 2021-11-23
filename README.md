@@ -16,11 +16,11 @@
 
 <h2 align="left">Connect with me:</h2
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tusher-goon-b08161190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tusher-goon-b08161190/" height="30" width="40" /></a>
+[<a href="https://linkedin.com/in/https://www.linkedin.com/in/tusher-goon-b08161190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tusher-goon-b08161190/" height="30" width="40" /></a>][linkedin]
 <a href="https://fb.com/https://www.facebook.com/tushergoon123456789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tushergoon123456789/" height="30" width="40" /></a>
  <a href="https://instagram.com/https://www.instagram.com/tushergoondiponkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tushergoondiponkar/" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uci0zj63xgsdid74ctx41asq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uci0zj63xgsdid74ctx41asq" height="30" width="40" /></a>
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
  </p>
 
@@ -46,6 +46,6 @@
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCi0zj63xgSdid74ctX41aSQ
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[instagram]: https://www.instagram.com/tushergoondiponkar/
+[linkedin]: https://www.linkedin.com/feed/
 [portfolio]: https://arsentieva.github.io/profile/
