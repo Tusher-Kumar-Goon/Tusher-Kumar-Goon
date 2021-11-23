@@ -4,7 +4,7 @@
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [ff]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
