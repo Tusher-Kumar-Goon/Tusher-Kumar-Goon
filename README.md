@@ -1,6 +1,6 @@
 ### Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/31543103_418280648643655_7862482443339563008_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEkNekUAmNvOEFLS4MEXRqKHUwAAOB8wjEdTAAA4HzCMfU0E8Ik-VLzD-cnlo1cl3MtFk-92LMM_ms8L1dcGmQG&_nc_ohc=46SuJKIKlg4AX87waPu&_nc_ht=scontent.fdac24-1.fna&oh=4cd61260bacb6ae3194e025c29f9c944&oe=61C188C4" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
