@@ -1,16 +1,15 @@
-## Hello World, I'm Anna  👋
+## Hello World, I'm Tusher Goon 👋
 
  <img align="right" alt="GIF" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/31543103_418280648643655_7862482443339563008_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEkNekUAmNvOEFLS4MEXRqKHUwAAOB8wjEdTAAA4HzCMfU0E8Ik-VLzD-cnlo1cl3MtFk-92LMM_ms8L1dcGmQG&_nc_ohc=46SuJKIKlg4AX87waPu&_nc_ht=scontent.fdac24-1.fna&oh=4cd61260bacb6ae3194e025c29f9c944&oe=61C188C4" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [ff]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+## I'm a Full Stack Wevdeveloper!!
+- ✍ You can find my projects here [add korbo port]
+- 🔭 I’m currently working on  Youtube.
+- 🌱 I’m currently learning React Native and Php
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I speak 3 languages ( English, Bangla, Some Hindi)
 
 
 
