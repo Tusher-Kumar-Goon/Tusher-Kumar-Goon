@@ -1,7 +1,7 @@
 ## Hello World, I'm Tusher Goon 👋
 
- <img align="right" alt="GIF" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/31543103_418280648643655_7862482443339563008_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEkNekUAmNvOEFLS4MEXRqKHUwAAOB8wjEdTAAA4HzCMfU0E8Ik-VLzD-cnlo1cl3MtFk-92LMM_ms8L1dcGmQG&_nc_ohc=46SuJKIKlg4AX87waPu&_nc_ht=scontent.fdac24-1.fna&oh=4cd61260bacb6ae3194e025c29f9c944&oe=61C188C4" width="500" height="320" />
- <img src="https://i.ibb.co/6DTTSCt/Man-Working-On-Laptop-With-Coffee-And-Stationary-Cartoon-Vector-Icon-Illustration-People-Technology.jpg" alt="Man-Working-On-Laptop-With-Coffee-And-Stationary-Cartoon-Vector-Icon-Illustration-People-Technology-" border="0">
+ <img align="right" alt="GIF" src="https://i.ibb.co/D504BNq/4140038.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEkNekUAmNvOEFLS4MEXRqKHUwAAOB8wjEdTAAA4HzCMfU0E8Ik-VLzD-cnlo1cl3MtFk-92LMM_ms8L1dcGmQG&_nc_ohc=46SuJKIKlg4AX87waPu&_nc_ht=scontent.fdac24-1.fna&oh=4cd61260bacb6ae3194e025c29f9c944&oe=61C188C4" width="500" height="320" />
+
 
 
 ## I'm a Full Stack Wev developer!!
