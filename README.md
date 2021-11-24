@@ -1,20 +1,20 @@
-<a href="#"><img width="100%" height="50%" src="https://i.ibb.co/6DTTSCt/Man-Working-On-Laptop-With-Coffee-And-Stationary-Cartoon-Vector-Icon-Illustration-People-Technology.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/6DTTSCt/Man-Working-On-Laptop-With-Coffee-And-Stationary-Cartoon-Vector-Icon-Illustration-People-Technology.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tusher Goon</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Youtube](https://www.youtube.com/channel/UCi0zj63xgSdid74ctX41aSQ)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sun-store-purchase.web.app/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **tusherkyau@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
